@@ -7,7 +7,7 @@ Function di JavaScript adalah sebuah blok kode yang bisa dipanggil berulang kali
 
 - **Konsep Utama Function:** 📎
 ```
-  - Deklarasi: Membuat function dengan nama tertentu.
+ 	- Deklarasi: Membuat function dengan nama tertentu.
  	- Parameter: Nilai yang kita masukkan ke function agar bisa diproses.
  	- Return value: Hasil yang dikembalikan oleh function setelah dijalankan.
  	- Pemanggilan (call): Menjalankan function dengan menuliskan namanya.
