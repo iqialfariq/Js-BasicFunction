@@ -18,7 +18,7 @@ Function di JavaScript adalah sebuah blok kode yang bisa dipanggil berulang kali
 ### 📌 Cara Menuliskan Function Ada 2 Cara Yaitu:
 
 - **Function Declaration** 📎
-  ```js
+    ```js
     // Berikan inisialisasi nama pada function
     function tambah(a, b) {
       // Kembalikan nilai nya lalu berikan kondisi nya
@@ -29,7 +29,7 @@ Function di JavaScript adalah sebuah blok kode yang bisa dipanggil berulang kali
     console.log(tambah(5, 7)); // Output: 12
 
 - **Function Expression** 📎
-  ```js
+    ```js
     // Berikan inisialisasi pada variabel
     const kali = function(a, b) {
     // Kembalikan nilai nya lalu berikan kondisi nya
